@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the Earle of Pembrooke concerning the times, and the sad condition both of Prince and people.</title>
+            <author>Howell, James, 1594?-1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86627</idno>
+            <idno type="STC">Wing H3085</idno>
+            <idno type="STC">Thomason E522_5</idno>
+            <idno type="STC">ESTC R206205</idno>
+            <idno type="EEBO-CITATION">99865378</idno>
+            <idno type="PROQUEST">99865378</idno>
+            <idno type="VID">117618</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86627)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117618)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 81:E522[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the Earle of Pembrooke concerning the times, and the sad condition both of Prince and people.</title>
+                  <author>Howell, James, 1594?-1666.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the Yeare, 1647 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to James Howell by Wing.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Annotation on Thomason copy: "March. 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pembroke, Philip Herbert, --  Earl of, 1584-1650.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117618:1" rendition="simple:additions"/>
+            <p>A LETTER TO THE EARLE OF PEMBROOKE Concerning the Times, and the ſad condition both of Prince and People.</p>
+            <q>The Land mourneth becauſe of Oaths.</q>
+            <p>Printed in the Yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:117618:2"/>
+            <pb facs="tcp:117618:2"/>
+            <head>To the Right Honourable <hi>Philip</hi> Earle of <hi>Pembrock,</hi> and <hi>Montgomery,</hi> Knight of the moſt Noble Order of the Garter, and one of His Majiſties moſt Honourable Privy Counſell, &amp;c,</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THis Letter requires no Apologie, much leſſe any par<g ref="char:EOLhyphen"/>don, but may expect rather a good receprion, and thanks, when your Lordſhip hath ſeriouſly peruſed the contents, and ruminated well upon the matter it treats of, with your ſecond and third thoughts, which uſually carry with them a greater advantage of wiſedome: It concernes not your body, or temporall eſtate, but things reflecting upon the nobleſt part of you, your ſoule, which being a beame of Immortality, and a type of the Almighty, is in<g ref="char:EOLhyphen"/>comparably more precious, and rendreth all other earthly things to be but bables and tranſitory trifles. Now, the ſtrongeſt tye, the ſolemneſt engagement and ſtipulation that can be betwixt the ſoule and her Creator, is an <hi>Oath.</hi> I doe not underſtand common tumultuary raſh oaths, pro<g ref="char:EOLhyphen"/>ceeding from an ill habit, or beat of paſſion upon ſudden contingencies, for ſuch oaths bind one to nought elſe but to repentance: No, I mean ſerious and legall oaths, taken with a calm prepared ſpirit, either for the aſſerting of truth, and conviction of falſhood, or for fidelitie in the execution of ſome Office, or binding to civill obedience and Loyaltie, which is one of the eſſentiall parts of a Chriſtian. Such publick oaths legally made with the Royall aſſent of the So<g ref="char:EOLhyphen"/>veraigne
+<pb facs="tcp:117618:3"/>from whom they receive both legalitie and life, elſe they are invalid &amp; unwarrantable, as they are religious acts in their own nature, ſo is the taking and obſervance of them part of Gods honor, &amp; there can be nothing more derogatory to the high Majeſty and holineſſe of his name, nothing more dangerous, deſtructive &amp; damnable to humane ſouls then the infringment and eluding of them, or omiſſion in the perfor<g ref="char:EOLhyphen"/>mance of them. Which makes the <hi>Turks,</hi> of whom Chri<g ref="char:EOLhyphen"/>ſtians in this particular may learn a tender peece of huma<g ref="char:EOLhyphen"/>nity, to be ſo cautious, that they ſeldom or never adminiſter an oath to Greek, Jew, or any other Nation, and the reaſon is, that if the Party ſworn doth take that Oath upon hopes of ſome advantage, or for evading of danger and puniſh<g ref="char:EOLhyphen"/>ment, and afterwards reſcinds it, they think themſelves to be involved in the Perjurie, and acceſſary to his damnation: Our Civill Law hath a Canon conſonant to this, which is, <hi>Mortale peccatum eſt ei prastare juramentum, quem ſcio veri<g ref="char:EOLhyphen"/>ſimiliter violaturum; 'Tis a mortall ſin to adminiſter an Oath to him who I probably know will break it;</hi> To this may allude ano<g ref="char:EOLhyphen"/>ther wholeſome ſaying, <hi>A falſe Oath is damnable, a true Oath dangerous, none at all the ſafeſt.</hi> How much then have they to anſwer for, who of late years have fram'd ſuch for<g ref="char:EOLhyphen"/>midable coercive generall Oaths to ſerve them for engins of State to <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y battery to the Conſciences and Soules of poore men, and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the aſſent of the Soveraign, and op<g ref="char:EOLhyphen"/>poſed <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to fo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er Oaths they themſelves had ta<g ref="char:EOLhyphen"/>ken: theſe kind of Oaths the City hath ſwallowed lately in groſſe, and the Country in detaile, which makes me confi<g ref="char:EOLhyphen"/>dently beleeve that if <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver that ſaying of the holy Prophet, <hi>The Land mournes for Oaths</hi> was appliable to any part of the habitable earth, it may be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>plied to this deſperate Iſland.</p>
+            <p>But now I come to the maine of my purpoſe, and to thoſe Oaths your Lordſhip hath taken before this diſtra<g ref="char:EOLhyphen"/>cted
+<pb facs="tcp:117618:3"/>time, which, the world knowes, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd your conſcience can teſtifie, were divers; They were all of them Solemn, and ſome of them Sacramentall Oaths (and indeed, every <hi>So<g ref="char:EOLhyphen"/>lemn</hi> Oath <hi>among the Ancients was held a Sacrament:</hi>) They all implyed, and impoſed an indiſpenſible fidelity, Truth and loyalty from you to your Soveraigne Prince, your Liege Lord and Maſter the King: I will make ſome inſtan<g ref="char:EOLhyphen"/>ces: Your Lordſhip tooke an Oath when Knight of the Bath <hi>to love your Soveraigne above all earthly Greatures, and for His Right and dignity to live and die:</hi>
+            </p>
+            <p>By the Oath of Supremacy you ſwear <hi>to beare faith and true allegeance to the Kings Highneſſe, and to your power to de<g ref="char:EOLhyphen"/>fend all Iuriſdictions, Privileges, Preheminences and Authori<g ref="char:EOLhyphen"/>ties belonging to His Highneſſe.</hi>
+            </p>
+            <p>Your Lordſhip took an Oath when Privie Counſellor, <hi>to be a true and faithfull Servant unto Him, and if you knew or underſtood of anymanner of thing to be attempted, done, or</hi> ſpoken <hi>againſt His Majeſties</hi> Perſon, <hi>Honour Crown, or Dagnitie, you ſwoare to let, and withſtand the ſame to the uttermoſt of your po<g ref="char:EOLhyphen"/>wer, and either cauſe it to be revealed to Himſelfe, or to others of His Privy Counſell:</hi> The Oaths you took when Bedchamber<g ref="char:EOLhyphen"/>man, &amp; L. Chamberlain bind you as ſtrictly to His <hi>Perſon.</hi>
+            </p>
+            <p>Your Lordſhip may alſo call to memorie when you were inſtalled Knight of the Garter, (whereof you are now the oldeſt living except aK. of <hi>Denmarky</hi> you ſolemnly ſwore <hi>to defend the Honour, and Quarrels, the Rights and Lordſhip of your Soveraigne:</hi> Now the Record tells us that the chiefeſt ground of inſtituting that Order by that heroick Prince <hi>Edward</hi> the Third was, that he might have choice gallant men, who by Oath and Honour ſhould adhere unto him in all dangers, and difficulties, and that by way of reciproca<g ref="char:EOLhyphen"/>tion he ſhould protect and defend them; Which made <hi>Alfonſo</hi> Duke of <hi>Calabria</hi> ſo much importune <hi>Henry</hi> the
+<pb facs="tcp:117618:4"/>Eight to inſtall him one of the Knights of the Gatter, that he might engage King <hi>Harry</hi> to protect him againſt <hi>Charles</hi> the Eighth, who threatned then the conqueſt of <hi>Naples.</hi>
+            </p>
+            <p>How your Lordſhip hath acquitted your ſelfe of the per<g ref="char:EOLhyphen"/>formance of theſe Oaths your conſcience (that boſome re<g ref="char:EOLhyphen"/>cord) can make the beſt affidavit; Some of them oblige you <hi>to live and dye</hi> with King <hi>Charles,</hi> but what Oaths or any thing like an Oath binds you to live and die with the <hi>Houſe of Commons,</hi> as your Lordſhip often gives out you will, I am yet to learne: Unleſſe that Houſe which hath not po<g ref="char:EOLhyphen"/>wer as much as to adminiſter an Oath (much leſſe to make one) can <hi>abſolve</hi> you from your former Oaths, or haply by their omnipotence <hi>diſpence</hi> with you for the obſervance of them. Touching the <hi>Politicall</hi> capacitie of the King I feare that will be a weak plea for your Lordſhip before the Tri<g ref="char:EOLhyphen"/>bunall of heaven, and they who whiſpers ſuch Chimeras in<g ref="char:EOLhyphen"/>to your eares abuſe you in groſſe; but put caſe there were ſuch a thing as politicall capacitie diſtinct from the perſonall, which to a true rational man is one of the groſſeſt Buls that can be, yet theſe ſorementioned Oaths relate moſt of them meerly unto the Kings <hi>Perſon,</hi> the individuall Perſon of King <hi>Charles</hi> as you are His domeſtick Counſellor, and cubicular Servant.</p>
+            <p>My Lord, I take leave to tell your Lordſhip (and the Spectator ſees ſometimes more then the Gamſter) that the world extreamely marvels at you more then others, and it makes thoſe who wiſh you beſt to be transformed to won<g ref="char:EOLhyphen"/>der, that your Lordſhip ſhould be the firſt of your Race who deſerted the <hi>Crowne,</hi> which one of your Progenitors ſaid, he would ſtill follow though it were thrown upon a hedge: Had your Princely Brother been living he would have been ſooner torne by wild horſes than have banded a<g ref="char:EOLhyphen"/>gainſt it, or abandoned the King his Maſter, and fallen to
+<pb facs="tcp:117618:4"/>ſuch groſſe Idolatry as to worſhip the <hi>Beaſt with many heads.</hi> The world alſo ſtands aſtoniſhed that you ſhould con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ede<g ref="char:EOLhyphen"/>rate to bring into the bowels of the Land, and make Elogi<g ref="char:EOLhyphen"/>ums of that hungry people which have been from all times ſo croſſe and fatall to the Engliſh Nation, and parti<g ref="char:EOLhyphen"/>cularly to your <hi>own</hi> honour: Many thouſands do wonder that your Lordſhip ſhould be brought to perſecute with ſo much animoſity and hatred that reverend <hi>Order</hi> in Gods Church which is contemporary with Chriſtianity it ſelf, and whereunto you had once deſigned, and devoted one of your deareſt Sonnes ſo ſolemnly.</p>
+            <p>My Lord, if this Monſter of Reformation (which is like an infernall Spirit clad in white, and hath a cloven head as well as feet) prevailes you ſhall find the ſame deſtiny will attend poore <hi>England,</hi> as did <hi>Bohemia</hi> which was one of the flouriſhingſt Kingdoms upon this part of the earth; The Common people there repind at the Hierarchy and riches of the Church, thereupon a Parliament was pack'd where Biſhops were demoliſh'd, what followed? The Nobles and Gentry went down next, and afterwards the Crown it ſelf, and ſo it became a popular confus'd Anarchicall State, and a Stage of bloud along time, ſo that at laſt, when this Ma<g ref="char:EOLhyphen"/>got had done working in the braines of the fooliſh people, they were glad to have recourſe to Monarchy againe after a world of calamities; though it degenerated from a ſucceſ<g ref="char:EOLhyphen"/>ſive Kingdom to an Elective. Me thinks, my Lord, under favour that thoſe notorious viſible judgements which have fallen upon theſe Refiners of reform'd <hi>Religion</hi> ſhould un<g ref="char:EOLhyphen"/>beguile your Lordſhip, and open your eyes: For the hand of heaven never appeared ſo cleerly in any humane actions: Your Lordſhip may well remember what became of the <hi>Ho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hams,</hi> and Sir <hi>Alexander Cary</hi> who were the two fatall wretches that began the War firſt, one in the <hi>North,</hi> the o<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:117618:5"/>in the <hi>South;</hi> Your Lordſhip may be alſo pleaſed to remember what became of <hi>Brooks</hi> the Lord, and <hi>Hampden,</hi> the firſt whereof was diſpatched by a deafe &amp; dumb man out of an ancient Church which he was battering, and that ſudden<g ref="char:EOLhyphen"/>ly alſo, for he fell ſtone dead in the twinkling of an eye; Now, one of the greateſt cavils he had againſt our <hi>Lyturgie</hi> was a clauſe of a Prayer there againſt <hi>ſudden death,</hi> beſides the fagge end of his Grace in that journey was, that if the deſign was not pleaſing to God, he might periſh in the acti<g ref="char:EOLhyphen"/>on: For the other wiſeaker he be-ſprinkled with his bloud, and received his death upon the ſame clod of earth in <hi>Buck<g ref="char:EOLhyphen"/>ingham</hi>-ſhire where he had firſt aſſembled the poore Coun<g ref="char:EOLhyphen"/>try people like ſo many Geeſe to drive them gaggling in a mutiny to <hi>London</hi> with the Proteſtation in their Caps, which hath been ſince torne in flitters, and is now grown ob<g ref="char:EOLhyphen"/>ſolet and quite out of uſe. Touching <hi>Pym</hi> &amp; <hi>Stroud,</hi> thoſe two worthy Champions of the <hi>Vtopian</hi> cauſe, the firſt being ope<g ref="char:EOLhyphen"/>ned, his ſtomack and guts were found to be full of pellets of bloud, the other had little or no braine at all left in his skull being dead, &amp; leſſe when he was living: For <hi>Hollis</hi> who carried the firſt ſcandalous Remonſtrance (that work of night, &amp; the verdict of a ſtarv'd jury) to welcome the King from <hi>Scotland,</hi> and was the firſt of the <hi>five</hi> Members who were impeached by his Majeſtie, he hath been ſince, your Lordſhip knowes, the chiefe of the <hi>Eleven</hi> Members impeached by themſelves, but with this difference, that they had juſtice againſt him, though the King could get none: But now this St. <hi>Hollis</hi> with the reſt are a kind of Runnagates beyond the Seas, ſcorn'd by all mankind, and baffled every where, yea, even by the <hi>Boors</hi> of <hi>Holland,</hi> and not daring to peep in any populous Town but by owle-light.</p>
+            <p>Moreover I beleeve your Lordſhip hath good cauſe to re<g ref="char:EOLhyphen"/>member that the ſame kind of riotous Raſcals which rabled
+<pb n="7" facs="tcp:117618:5"/>the King out of town, did drive away the Speaker in like manner with many of their Memb<hi rend="sup">ſps</hi>, amongſt whom your Lordſhip was fairly on his way, to ſeek ſhelter of their Jani<g ref="char:EOLhyphen"/>zaries: Your L<hi rend="sup">p</hi> muſt needs find what deadly fewds fall daily 'twixt the Presbyterian and Independent, the two fiery brands that have put this poor Iſle ſo long in combu<g ref="char:EOLhyphen"/>buſtion. But 'tis worthy your Lordſhips ſpeciall notice how your dear Brethren the Scots (whom your Lordſhip ſo highly magnified in ſome of your publike Speeches) who were at firſt brought in for Hirelings againſt the King for them, offer themſelves now to come in againſt them for the King: Your Lordſhip cannot be ignorant of the ſundry claſhes that have been 'twixt the City and their Memberſhips, and 'twixt their Memberſhips and their men of war; who have often wav'd &amp; diſobeyd their com<g ref="char:EOLhyphen"/>mands: How this tatterdimallian Army hath reduc'd this cow'd City, the cheated Country, and their once all-com<g ref="char:EOLhyphen"/>manding Maſters to a perfect paſſe of ſlavery, to a true a<g ref="char:EOLhyphen"/>ſinin condition; They crow over all the ancient Nobility and Gentry of the Kingdome, though there be not found amongſt them all but two Knights; and 'tis well known there be hundreds of private Gentlemen in the Kingdome, the pooreſt of whom, is able to buy this whole Hoſt with the Generall himſelfe and all the Commanders: But 'tis not the firſt time, that the Kings and Nobility of <hi>England</hi> have been baffled by petty companions: I have read of <hi>Jack Straw, Wat Tyler</hi> and <hi>Ket</hi> the Tanner, with divers o<g ref="char:EOLhyphen"/>thers that did ſo, but being ſuppreſſed it tended to the ad<g ref="char:EOLhyphen"/>vantage of the King at laſt; and what a world of exam<g ref="char:EOLhyphen"/>ples are there in our ſtory, that thoſe Noblemen who ban<g ref="char:EOLhyphen"/>ded againſt the Crown, the revenge of heaven ever found them out early or late at laſt.</p>
+            <p>Theſe, with a black cloud of reciprocall judgements
+<pb n="8" facs="tcp:117618:6"/>more, which have come home to theſe Reformers very dores, ſhew, that the hand of divine juſtice is in't, and the holy Prophet tels us, <hi>When Gods judgements are upon earth, then the Inhabitants ſhall learn juſtice.</hi>
+            </p>
+            <p>Touching your Lordſhip in particular, you have not, underfavor, eſcap'd without ſome already, and I wiſh more may not follow; your Lordſhip may remember you loſt one Son at <hi>Bridgenorth,</hi> your deer Daughter at <hi>Oxford,</hi> your Son-in-law at <hi>Newbury,</hi> your Daughter-in-law at the <hi>Charter-houſe</hi> of an infamous diſeaſe, how ſickly your el<g ref="char:EOLhyphen"/>deſt Son hath been; how part of your Houſe was burnt in the country, with others which I will not now mention.</p>
+            <p>I will conclude this point with an obſervation of the moſt monſtrous number of Witches that have ſwarm'd ſince theſe Wars againſt the King, more (I dare ſay) then have been in this Iſland ſince the Devil tempted <hi>Eve;</hi> for in two Counties only there have been neer upon three hun<g ref="char:EOLhyphen"/>dred arraign'd, and eightſcore executed; what a barba<g ref="char:EOLhyphen"/>rous deviliſh office one had, under colour of examination, to torment poor ſilly women with watchings, pinchings, and other artifices to find them for Witches: How others by a new invention of villany were conniv'd at for ſeizing upon young children, and hurrying them on ſhip-board, where they were ſo transform'd that their Parents could not know them, and ſo were carried over for new ſchiſma<g ref="char:EOLhyphen"/>tical Plantations. My Lord, there is no villany that can en<g ref="char:EOLhyphen"/>ter into the imagination of man hath been left here un<g ref="char:EOLhyphen"/>committed; no crime from the higheſt Treaſon to the meaneſt Treſpaſſe but theſe Reformers are guilty of. What horrid acts of profaneneſſe have been perpetrated up and down! the Monuments of the dead have been rifled! Horſes have been watred at the Church Font, and fed up<g ref="char:EOLhyphen"/>on the holy Table! Widows, Orphans, and Hoſpitals
+<pb n="9" facs="tcp:117618:6"/>have been commonly robb'd, and Gods Houſe hath been plundred more then any! with what infandous blaſphe<g ref="char:EOLhyphen"/>mies hath the Pulpits rung, one crying out, that <hi>this Par<g ref="char:EOLhyphen"/>liament was as neceſſary for our Reformation, as the comming of Chriſt was for our Redemption:</hi> Another belching out, that if <hi>God Almighty did not proſper this Cauſe, 'twere fitting he ſhould change places with the Devil:</hi> Another, that <hi>the worſt things our Saviour did, was the making of the Domini<g ref="char:EOLhyphen"/>call prayer, and ſaving the Thief upon the Croſſe.</hi> O immor<g ref="char:EOLhyphen"/>tall God, is it poſſible that <hi>England</hi> ſhould produce ſuch Monſters, or rather ſuch infernall fiends ſhap'd with hu<g ref="char:EOLhyphen"/>mane bodies! yet your Lordſhip ſides with theſe men, though they be enemies to the Croſs, to the Church, and to the very name of <hi>Jeſus</hi> Chriſt; I'le inſtance only in two who were eſteem'd the Oracles of this holy Reformation, <hi>Peters,</hi> and <hi>Saltmarſh;</hi> The firſt is known by thouſands to be an infamous, jugling and ſcandalous villain, among o<g ref="char:EOLhyphen"/>ther feats he got the Mother and Daughter with Child, as it was offerd to be publickly proved; I could ſpeak much of the other, but being dead, let it ſuffice that he died mad and deſperate. Theſe were accounted the two Apoſtles of the times.</p>
+            <p>My Lord, 'tis high time for you to recollect your ſelf, to enter into the private cloſet of your thoughts, and ſum<g ref="char:EOLhyphen"/>mon them all to counſel upon your pillow; conſider well the ſlaviſh condition your dear Countrey is in, weigh well the ſad caſe your liege Lord and Maſter is in, how He is be<g ref="char:EOLhyphen"/>reav'd of His Queen, His Children, His Servants, His Li<g ref="char:EOLhyphen"/>berty, and of every thing in which there is any comfort; obſerve well, how nevertheleſſe, God Almighty works in Him, by inſpiring Him with equality and calmneſſe of mind, with patience, prudence and conſtancy, how He makes His very <hi>croſſes</hi> to ſtoop unto Him, when His <hi>Sub<g ref="char:EOLhyphen"/>jects</hi>
+               <pb n="10" facs="tcp:117618:7"/>will not: Conſider the monſtrouſnes of the Propo<g ref="char:EOLhyphen"/>ſitions that are tendred Him, wherein no leſſe then <hi>Crown, Scepter, and Sword,</hi> which are things in-alienable from Ma<g ref="char:EOLhyphen"/>jeſty, are in effect demanded, nay they would not only have Him tranſmit, and reſign His very intellectuals unto them, but they would have Him make a ſacrifice of His ſoule, by forcing Him to violate that ſolemn ſacramentall Oath He took at His Coronation when He was no <hi>minor,</hi> but come to a full maturity of reaſon and judgment: make it your own caſe, my Lord, and that's the beſt way to judge of His: Think upon the multiplicity of ſolemn aſtringing Oaths your Lordſhip hath taken, moſt whereof directly and ſolely enjoyn faith and loyalty to His <hi>Perſon;</hi> oh my Lord! wrong not your ſoul ſo much, in compariſon of whom your body is but a rag of rottenneſſe.</p>
+            <p>Conſider that acts of loyalty to the Crown are the fai<g ref="char:EOLhyphen"/>reſt columns to bear up a Noblemans name to future ages, and regiſter it in the temple of immortality. Reconcile your ſelfe therfore ſpeedily unto your liege Lord &amp; Maſter, think upon the infinite private obligations you have had both to <hi>Sire</hi> and <hi>Son:</hi> The Father kiſs'd you often, kiſſe you now the <hi>Sun</hi> leſt he be too angry; <hi>And Kings,</hi> you will find, my Lord, <hi>are like the Sun in the heavens, which may be clou<g ref="char:EOLhyphen"/>ded for a time, yet is he ſtill in his ſphear, and will break out a<g ref="char:EOLhyphen"/>gain, and ſhine as gloriouſly as ever;</hi> Let me tell your Lord<g ref="char:EOLhyphen"/>ſhip that the people begin to grow extream weary of their Phyſitians, they find the remedy to be far worſe then their former diſeaſe; nay, they ſtick not to call ſome of them meer Quackſalvers, rather then Phyſitians; Some go fur<g ref="char:EOLhyphen"/>ther, and ſay they are no more Parliament, then a Pye<g ref="char:EOLhyphen"/>powder Court at <hi>Bartholomew-fair,</hi> there being all the eſ<g ref="char:EOLhyphen"/>ſentiall parts of a true Parliament wanting in this, as fair<g ref="char:EOLhyphen"/>neſſe of elections, freedome of ſpeech, fulneſſe of Mem<g ref="char:EOLhyphen"/>bers,
+<pb n="11" facs="tcp:117618:7"/>nor have they any head at all; Beſides, they have broken all the fundamentall rules and priviledges of Par<g ref="char:EOLhyphen"/>liament, and diſhonoured that high Court more then any thing elſe: They have raviſh'd <hi>Magna Charta</hi> which they are ſworn to maintain, taken away our birth-right, and tranſgreſſed all the laws of heaven and earth: Laſtly, they have moſt perjuriouſly betrayed the truſt the King repoſed in them, the truſt their Countrey repoſed in them, ſo that if reaſon and Law were now in date, by the breach of their Priviledges, and by betraying the double truſt that is put in them, they have diſſolved themſelves <hi>ipſo facto</hi> I can<g ref="char:EOLhyphen"/>not tell how many thouſand times, notwithſtanding that monſtrous grant of the Kings, <hi>that fatall Act of continu<g ref="char:EOLhyphen"/>ance;</hi> And truly my Lord, I am not to this day ſatisfied of the legality (though I am ſatisfied of the forcibleneſſe) of that Act, whether it was in His Majeſties power to paſſe it or no; for the law ever preſuppoſeth theſe clauſes in all conceſſions of Grace, in all Patents, Charters, and Grants whatſoever the King paſſeth, <hi>Salvo jure regio, ſalvo jure coronae.</hi>
+            </p>
+            <p>To conclude, as I preſume to give your Lordſhip theſe humble cautions, &amp; advice in particular, ſo I offer it to all other of your rank, office &amp; orders, who have ſouls to ſave, &amp; who by ſolemn indiſpenſable Oaths have engaged them to be true and loyall to the Perſon of King <hi>Charls.</hi> Touch<g ref="char:EOLhyphen"/>ing His <hi>politicall</hi> capacity, which <hi>fancy</hi> hath been exploded in other Parliaments (except in that <hi>mad</hi> infamous Parlia<g ref="char:EOLhyphen"/>ment where it was firſt hatched) and Acts paſſed that it ſhould be high and horrible Treaſon <hi>to ſeparate or diſtin<g ref="char:EOLhyphen"/>gniſh the Perſon of the King from His Power;</hi> I believe, as I ſaid before, this will not ſerve their turn at the dreadfull Bar of divine Juſtice in the other world: Indeed that Rule of the Pagans makes for them, <hi>Si Jusjurandum violandum
+<pb n="12" facs="tcp:117618:8"/>eſt, Tyrannidis cauſa violandum eſt, If an Oath be any way frangible, 'tis frangible for a Kingdome;</hi> We find by wo<g ref="char:EOLhyphen"/>full experience that according to this maxime they have made themſelves all kings by violation of ſo many Oaths; They have monopolized the whole power and wealth of the Kingdome into their own hands; They cut, ſhuffle, deal, and turn up what trump they pleaſe, being Judges and parties in every thing.</p>
+            <p>My Lord, He who preſents theſe humble advertiſements to your Lordſhip, is one who is inclin'd to the Parliament of <hi>England</hi> in as high a degree of affection as poſſibly a free-born Subject can be; One beſides, who wiſheth your Lordſhips good, with the preſervation of your ſafety and honour more really then He whom you intruſt with your ſecreteſt affairs, or the <hi>white Jew</hi> of the Upper Houſe who have infuſed ſuch pernicious principles into you; moreo<g ref="char:EOLhyphen"/>ver, one who hath ſome drops of bloud running in his veines, which may claim kindred with your Lordſhip: And laſtly, he is One who would kiſſe your feet, in lieu of your hands, if your L<hi rend="sup">dp</hi> would be ſo ſenſible of the moſt deſperate caſe of your poor Country, as to employ the in<g ref="char:EOLhyphen"/>tereſts, the opinion and power you have to reſtore the King your Maſter by Engliſh waies, rather then a hungry for<g ref="char:EOLhyphen"/>rain people, who are like to bring nothing but deſtructi<g ref="char:EOLhyphen"/>on in the van, confuſion in the reare, and rapine in the middle, ſhould have the honour of ſo glorious a work,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>So, humbly hoping your Lordſhip will not take with the left hand what I offer with the right, I reſt Your moſt truly devoted Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:117618:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
